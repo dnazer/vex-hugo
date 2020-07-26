@@ -26,3 +26,10 @@ fields:
 - type: list
   name: sizes
   label: sizes
+- type: text
+  name: digital_guid
+  label: digital_guid
+- type: text
+  name: url
+  label: url
+  
